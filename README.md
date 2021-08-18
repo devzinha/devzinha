@@ -25,3 +25,8 @@
     <a href="https://www.linkedin.com/in/maria-pinheiro-feitosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <a href="https://www.instagram.com/zi.nha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </div>
+      <div style="display: inline_block"><br>
+    <img align"center" alt="Zinha-Java" height="300" width="405" src="https://media.giphy.com/media/6DAUO37TIX2epsdBET/giphy.gif"/>
+      </div>
+      
+     
