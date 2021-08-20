@@ -21,7 +21,6 @@
     <img align"center" alt="Zinha-Java" height="35" width="45" src="https://i.imgur.com/7Z0a0T3.png"/>
     <img align"center" alt="Zinha-JS" height="35" width="45" src="https://i.imgur.com/4NSPED8.png"/>
     <img align"center" alt="Zinha-Java" height="35" width="45" src="https://i.imgur.com/ZT3cvnP.png"/>
-    <img align"center" alt="Zinha-Java" height="35" width="45" src="https://i.imgur.com/7Z0a0T3.png"/>
   </div>
 
  ##
